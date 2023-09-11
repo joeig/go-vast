@@ -27,8 +27,7 @@ func TestNumericBool_MarshalText_false(t *testing.T) {
 }
 
 func TestNumericBool_MarshalText_true(t *testing.T) {
-	var numericBool vast.NumericBool
-	numericBool = true
+	numericBool := vast.NumericBool(true)
 
 	result, err := numericBool.MarshalText()
 	if err != nil {
