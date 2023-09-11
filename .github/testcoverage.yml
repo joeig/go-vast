@@ -1,0 +1,7 @@
+---
+profile: ./coverage.out
+threshold:
+  # Note: Update README.md in case thresholds change.
+  file: 87
+  package: 87
+  total: 87
