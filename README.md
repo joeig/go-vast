@@ -3,7 +3,6 @@
 Go package to parse, manipulate and build Digital Video Ad Serving Templates (VAST).
 The currently supported version is VAST 4.2.
 
-[![Build Status](https://github.com/joeig/go-vast/workflows/Tests/badge.svg)](https://github.com/joeig/go-vast/actions)
 [![Test coverage](https://img.shields.io/badge/coverage-87%25-success)](https://github.com/joeig/go-vast/tree/master/.github/testcoverage.yml)
 [![Go Report Card](https://goreportcard.com/badge/go.eigsys.de/go-vast)](https://goreportcard.com/report/go.eigsys.de/go-vast)
 [![PkgGoDev](https://pkg.go.dev/badge/go.eigsys.de/go-vast)](https://pkg.go.dev/go.eigsys.de/go-vast)
