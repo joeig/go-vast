@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	aqwari.net/xml v0.0.0-20210331023308-d9421b293817
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 )
 
 require (
